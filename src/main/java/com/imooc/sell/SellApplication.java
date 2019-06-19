@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
     public static void main(String[] args) {
         String s = "wqwqw";
+        String wangzhangxiugai= "21111";
         SpringApplication.run(SellApplication.class, args);
 
 
